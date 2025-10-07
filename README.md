@@ -21,6 +21,11 @@ A revolutionary 3D animated gym website built with React.js, Three.js, and Frame
 - **Framer Motion** - Animation library
 - **Lucide React** - Beautiful icons
 
+<img width="137" height="508" alt="image" src="https://github.com/user-attachments/assets/a99445aa-104f-44a6-9063-41f5eac22bd8" />
+
+
+
+
 ## 📦 Installation
 
 ### Prerequisites
@@ -184,3 +189,4 @@ For support, email info@fitzone.com or create an issue in the repository.
 ---
 
 **Built with ❤️ for the fitness community**
+
